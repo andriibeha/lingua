@@ -1,0 +1,30 @@
+/* YourModule.module.css */
+
+.hero_bg {
+	background-image: url('../../assets//hero_bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 514px;
+}
+
+.hero__logo__container {
+	width: 200px;
+	height: 92px;
+
+	border-bottom-right-radius: 1rem;
+	border-bottom-left-radius: 1rem;
+
+	text-align: center;
+	background-color: white;
+
+	margin: 0 auto;
+}
+
+.hero__wrap {
+	padding: 18px 37px;
+}
+
+.hero__logo__text {
+	font-size: 14px;
+	font-family: regular;
+}
